@@ -1,41 +1,59 @@
 # Muhammad Bilal Nasir
 
-**Backend Engineer · Applied AI Systems · Lahore, PK**
+> BSc Software Engineering · LJMU &nbsp;|&nbsp; AI Development Intern · Expert System Solutions &nbsp;|&nbsp; Lahore, PK
 
-I build backend systems and AI-adjacent tooling in Python[cite: 1]. I specialize in building high-performance backend architectures, prototyping REST APIs, and designing local security layers for AI agents[cite: 4].
-
-🎓 **BSc Software Engineering** — Liverpool John Moores University (Double Academic Gold Medalist)[cite: 4]
-💻 **AI Development Intern** — Expert System Solutions[cite: 4]
+Backend engineer with a focus on Python, FastAPI, and AI-adjacent tooling. I build systems that are reliable, observable, and easy to reason about. Academic Gold Medalist. Former student body president.
 
 ---
 
-### ⚡ Core Stack
+### 🔧 Stack
 
-*   **Backend:** ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-red?style=flat-square)[cite: 4]
-*   **Architecture:** ![SQLite WAL](https://img.shields.io/badge/SQLite-WAL_Mode-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Asyncio](https://img.shields.io/badge/Asyncio-Native-blue?style=flat-square)[cite: 4]
-*   **Tooling:** ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)[cite: 4]
-
----
-
-### 🛡️ Featured Engineering
-
-**[SentinelMCP — Local-First AI Security Proxy](https://github.com/mbilalnasir751/SentinelMCP)**
-An asynchronous security middleware proxy built to protect token budgets and prevent data leaks[cite: 4].
-*   Intercepts outbound LLM requests from autonomous agents[cite: 4].
-*   Sanitizes high-entropy strings (secrets) via Shannon entropy analysis[cite: 4].
-*   Triggers a rolling-window circuit breaker to stop recursive loop cycles[cite: 4].
-*   *Stack: FastAPI, Asyncio, SQLite (WAL mode), Rich*[cite: 4].
+```
+Backend     Python 3.12+  ·  FastAPI  ·  SQLAlchemy 2.0
+Storage     SQLite (WAL)  ·  Asyncio-native I/O
+Tooling     Pytest  ·  Poetry  ·  Git
+```
 
 ---
 
-### 📈 Developer Metrics
+### 📌 Featured Work
 
-<!-- This dynamically pulls your GitHub stats. Do not edit the URL parameters unless you change your username. -->
-![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbilalnasir751&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=a6a6a6)
+**[SentinelMCP](https://github.com/mbilalnasir751/SentinelMCP)** — AI Security Middleware  
+Intercepts outbound LLM traffic, redacts high-entropy secrets, and enforces circuit-breaking to prevent recursive agent loops. Stack: FastAPI · Asyncio · SQLite (WAL) · Rich.
+
+---
+
+### 💼 Experience
+
+**AI Development Intern** @ Expert System Solutions *(May 2026 – Present)*  
+→ Prototyping production REST APIs and backend services for AI model integration.
+
+**Operations Executive** @ TEDxBICLahore *(Nov 2025 – Feb 2026)*  
+→ Managed logistics and cross-team coordination for a large-scale public event.
+
+**Sales Executive** @ Green Marketing Pvt Ltd *(May 2024 – Apr 2026)*  
+→ End-to-end sales pipeline management with a digital-first lead generation approach.
+
+---
+
+### 🏅 Recognition
+
+| Award | Detail |
+| :--- | :--- |
+| Gold Medalist & High Achiever | Academic years 2023–24 & 2024–25, LJMU |
+| Student Council President | Led 10+ events, elected by student body |
+| Engineering Society President | 3+ department-level initiatives |
+| Scholarship Recipient | Unique Group of Colleges |
+
+---
+
+### 🌱 Currently
+
+Building deeper expertise in applied AI systems, asynchronous Python architectures, and security-layer design for LLM agents.
 
 ---
 
 ### 📬 Connect
 
-[![Email](https://img.shields.io/badge/Email-mbilalnasir751%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mbilalnasir751@gmail.com)[cite: 4]
-[![GitHub](https://img.shields.io/badge/GitHub-mbilalnasir751-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mbilalnasir751)[cite: 4]
+[![Email](https://img.shields.io/badge/Email-mbilalnasir751%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mbilalnasir751@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-mbilalnasir751-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mbilalnasir751)
