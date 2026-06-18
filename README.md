@@ -1,6 +1,6 @@
 # Muhammad Bilal Nasir
 
-> AI Development Intern · Expert System Solutions &nbsp;|&nbsp; Lahore, PK
+> AI Developer · Expert System Solutions &nbsp;|&nbsp; Lahore, PK
 
 Backend engineer with a focus on Python, FastAPI, and AI-adjacent tooling. I build systems that are reliable, observable, and easy to reason about.
 
